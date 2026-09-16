@@ -1,0 +1,8 @@
+# Binario gerado pela compilacao
+safedrive
+*.o
+*.exe
+*.out
+
+# Arquivos de sistema
+.DS_Store
